@@ -1,0 +1,7 @@
+[
+    {"question": "What does CPU stand for?", "answer": "Central Processing Unit"},
+    {"question": "What is a loop in programming?", "answer": "A block of code that repeats until a condition is met"},
+    {"question": "What does RAM stand for?", "answer": "Random Access Memory"},
+    {"question": "What is a function?", "answer": "A reusable block of code that performs a specific task"},
+    {"question": "What is Git used for?", "answer": "Version control — tracking changes in code"}
+]
